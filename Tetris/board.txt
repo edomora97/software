@@ -1,0 +1,25 @@
+               TETRIS v2 PROGRAMMATO DA EDOARDO MORASSUTTO                     
+             GIOCATORE A:  SINISTRA (a) DESTRA (s) CAMBIA (x)                  
+             GIOCATORE B:  SINISTRA (j) DESTRA (k) CAMBIA (m)                  
+                                                                               
+ออออออออออออออออป         ษออออออออออออออออออออออป         ษอออออออออออออออออออ
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                บ         บ                      บ         บ                   
+                ศอออออออออผ                      ศอออออออออผ                   
+                PUNTEGGIO:                       PUNTEGGIO:                    
+                                                                               
+                                                                               
