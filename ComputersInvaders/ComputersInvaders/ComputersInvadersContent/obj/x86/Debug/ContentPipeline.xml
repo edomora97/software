@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2011-10-27T17:49:33.187598+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dot.png</Source>
+      <Name>dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\dot.xnb</Output>
+      <Time>2011-10-15T18:48:03.2030261+02:00</Time>
+    </Item>
+    <Item>
+      <Source>nemico.png</Source>
+      <Name>nemico</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\nemico.xnb</Output>
+      <Time>2011-10-27T18:02:11.0063901+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font1.spritefont</Source>
+      <Name>font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\font1.xnb</Output>
+      <Time>2011-10-20T18:02:33.6364673+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font2.spritefont</Source>
+      <Name>font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\font2.xnb</Output>
+      <Time>2011-10-17T16:48:25.5440961+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>d:\documenti\visual studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-10-21T16:51:30.4551197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonoro.wav</Source>
+      <Name>Sonoro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documenti\Visual Studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\Sonoro.xnb</Output>
+      <Time>2011-12-14T20:31:27.519397+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documenti\Visual Studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvadersContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documenti\Visual Studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documenti\Visual Studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documenti\Visual Studio 2010\Projects\ComputersInvaders\ComputersInvaders\ComputersInvaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-10T17:55:10.5581289+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
