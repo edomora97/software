@@ -1,0 +1,3 @@
+﻿I file qui posizionati devono essere stati creati con JumpingJump_Piattaforme. Devono esssere in formato .pck
+E' sconsigliabile operare manualmente con questi file, siccome anche una piccola alterazione puù compromettere l'intero file, con una conseguente perdita dei dati e un blocco del programma.
+Ogniuno è libero di creare i propri file con l'utilizzo di JumpingJump_Piattaforme.

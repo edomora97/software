@@ -1,0 +1,3 @@
+﻿Il file qui presente è il file della classifica. 
+Non deve essere modificato manualmente altrimenti potrebbe non funzionare a dovere, con una probabile perdita dei dati.
+Anche una piccola alterazione di questo file potrebbe compromettere l'intero file con un conseguente danneggamento di esso. Non sarà più possibile recuperare questo file senza avere fatto prima un backup.

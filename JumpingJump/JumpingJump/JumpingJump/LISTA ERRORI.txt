@@ -1,0 +1,106 @@
+Errore
+GRUPPO A:
+
+GRUPPO 0:
+A01: Menu principale -> indice non valido
+
+GRUPPO 1:
+A11: Menu principale -> impossibile verificare l'input. Segue messaggio dell'eccezzione
+A12: Menu principale -> impossibile eseguire l'azione del pulsante nel menu
+A13: Menu principale -> impossibile disegnare il menu. Segue messaggio dell'eccezione
+
+
+
+
+GRUPPO B:
+
+Gruppo 0:
+B01: InGame -> errore nell'inizializzazione. Segue messaggio dell'eccezione
+
+GRUPPO 1:
+B11: InGame -> impossibile generare la funzione. Segue messaggio dell'eccezione
+B12: InGame -> errore nella generazione della funzione. Segue messaggio dell'eccezione
+B13: InGame -> errore nella selezione della funzione
+
+GRUPPO 2:
+B21: InGame -> errore nella gestione dell'input
+B22: InGame -> errore nel passaggio da una parte all'altra dello schermo
+
+GRUPPO 3:
+B31: InGame -> errore nel salto
+
+GRUPPO 4:
+B41: InGame -> errore nella discesa dei blocchi
+
+GRUPPO 5:
+B51: InGame -> errore nella GODMODE
+
+GRUPPO 6:
+B61: InGame -> errore nella funzione GameOver
+
+GRUPPO 7:
+B71: InGame -> errore nella cancellazione dei blocchi fuori dallo schermo
+
+GRUPPO 8:
+B81: InGame -> errore nel reset della partita
+
+GRUPPO 9:
+B91: InGame -> errore nel disegno della partita
+B92: InGame -> errore nella selezione del disegno dei blocchi
+B92: InGame -> errore nel disegno del player
+
+
+
+
+GRUPPO C:
+
+GRUPPO 0:
+C01: Blocco -> errore nel disegno di un blocco normale
+C02: Blocco -> errore nel disegno di un blocco falso
+C03: Blocco -> errore nel disegno di un blocco di tipo MovimOrriz
+C04: Blocco -> errore nel disegno di un blocco di tipo MovimVert
+C05: Blocco -> errore nel disegno di un blocco distruttibile
+C06: Blocco -> errore nel disegno di un blocco di tipo SaltoSingolo
+
+GRUPPO 1:
+C11: Blocco -> errore nella selezione del tipo di blocco
+
+
+
+GRUPPO D:
+
+GRUPPO 0:
+D01: GameOver -> errore nell'input o nell'index
+D02: GameOver -> errore nel pulsante Restart
+D03: GameOver -> errore nel pulsante Menu
+
+GRUPPO :
+D11: GameOver -> errore nel disegno del menu gameover
+D12: GameOver -> errore nella selezione del pulsante
+
+
+
+GRUPPO E:
+
+GRUPPO 0:
+E01: Classifica -> errore nel costruttore
+E02: Classifica -> errore nella funzione di reset della classifica
+E03: Classifica -> errore nella funzione di aggiunta di una posizione
+E04: Classifica -> errore nell'ordinamento della classifica
+E05: Classifica -> errore nel record
+
+GRUPPO 1:
+E11: Classifica -> errore nel disegno del menu classifica
+E12: Classifica -> errore nella gestione dell'input
+
+GRUPPO 2:
+E21: Classifica -> errore nel pulsante reset
+E22: Classifica -> errore nel pulsante menu
+
+GRUPPO 3:
+E31: Classifica -> errore nel salvataggio della classifica
+E32: Classifica -> errore nel caricamento della classifica
+
+GRUPPO 4:
+E41: ElementoClassifica -> errore nel costruttore
+E42: ElementoClassifica -> errore nel disegno
