@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioTest", "AudioTest\AudioTest\AudioTest.csproj", "{88D94199-3BA0-49F7-A934-BDEB62851D5A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Content", "AudioTest\AudioTestContent\Content.contentproj", "{1EF7B0DC-7B48-4BF2-978A-0263B9E9B45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D94199-3BA0-49F7-A934-BDEB62851D5A}.Debug|x86.ActiveCfg = Debug|x86
+		{88D94199-3BA0-49F7-A934-BDEB62851D5A}.Debug|x86.Build.0 = Debug|x86
+		{88D94199-3BA0-49F7-A934-BDEB62851D5A}.Release|x86.ActiveCfg = Release|x86
+		{88D94199-3BA0-49F7-A934-BDEB62851D5A}.Release|x86.Build.0 = Release|x86
+		{1EF7B0DC-7B48-4BF2-978A-0263B9E9B45A}.Debug|x86.ActiveCfg = Debug|x86
+		{1EF7B0DC-7B48-4BF2-978A-0263B9E9B45A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
