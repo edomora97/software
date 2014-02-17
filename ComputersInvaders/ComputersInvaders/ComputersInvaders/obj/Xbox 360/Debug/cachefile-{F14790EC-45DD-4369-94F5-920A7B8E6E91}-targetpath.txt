@@ -1,2 +1,0 @@
-Content\nemico.xnb
-Content\player.xnb
